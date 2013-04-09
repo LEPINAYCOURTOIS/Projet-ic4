@@ -1,0 +1,171 @@
+body{
+height: 100%;
+padding: 0 auto;
+margin: 0 auto;
+min-width:80%;
+font-family: "courrier new",arial;
+	
+}
+
+#header{
+
+}
+
+#footer{
+margin: 240px 350px 10px 430px;
+position:static;
+
+}
+
+.img{
+margin: 15px 350px 15px 400px; //haut droite bas gauche
+
+}
+
+.acceuil{
+margin: 10px 0px 10px 220px;
+padding-left:63px;
+position:absolute;
+}
+
+.admin{
+margin: 10px 20px 15px 425px;
+padding-left:63px;
+position:related;
+}
+
+.contact{
+float:right;
+margin: -80px 268px 15px 898px;
+position:absolute;
+
+}
+.contact1{
+float:right;
+margin: -87px 268px 15px 898px;
+position:absolute;
+
+}
+
+.deco{
+margin: -64px 20px 15px 630px;
+padding-left:63px;
+position:relative;
+}
+
+.deco1{
+margin: -52px 20px 50px 630px;
+padding-left:63px;
+}
+
+#accordion{
+
+margin-left:22%;
+margin-right:14.5%;
+position: relative;
+background-color:black;
+}
+
+.ordi{
+margin-left:17%;
+}
+.texte{
+
+font-size:10px;
+}
+
+.texte1{
+margin-top:-25px;
+float:right;
+font-size:10px;
+}
+
+.disk{
+margin-right:20px;
+margin-bottom:-11px;
+
+}
+
+.mac{
+
+margin-bottom:-20px;
+margin-top: -11px;
+
+}
+
+.eth{
+
+margin-bottom:-20px;
+margin-top: -11px;
+height: 20%;
+
+}
+
+.ip{
+
+margin-bottom:-10px;
+
+}
+
+.os{
+margin-right:20px;
+margin-bottom:-28px;
+margin-top: -11px;
+
+}
+
+/****************************************************
+ *      Bouton poussoir
+ *****************************************************/
+.push_button{
+        position:relative;
+        width:150px;
+        color:#fff;
+        display:block;
+        text-decoration:none;
+        margin:0 auto;
+        border-radius:5px;
+        border:dashed 1px black;
+        background:red;
+        text-align:center;
+        padding:5px 5px;
+        -webkit-transition: all 0.1s;
+        -moz-transition: all 0.1s;
+        transition: all 0.1s;
+        -webkit-box-shadow: 0px 9px 0px #84261a;
+        -moz-box-shadow: 0px 9px 0px #84261a;
+        box-shadow: 0px 9px 0px #84261a
+
+}
+
+.push_button:active{
+    -webkit-box-shadow: 0px 2px 0px #84261a;
+    -moz-box-shadow: 0px 2px 0px black;
+    box-shadow: 0px 2px 0px black;
+    position:relative;
+    top:7px;
+}
+
+.buttom{
+
+margin:-50px 350px 15px 931px; //haut droite bas gauche
+}
+
+di{
+
+
+font-size: 25px;
+margin: 0px 600px  0px 450px  ;
+
+}
+
+.mot{
+
+    font-family: 'courrier new', arial;
+    font-style: italic;
+}
+
+pi{
+padding-left: 525px;
+
+}
